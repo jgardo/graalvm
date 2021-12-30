@@ -29,7 +29,7 @@ public class GenerateControllerTest {
                 .post("/api/generator")
           .then()
              .statusCode(200)
-             .body(is("The templateName is template"));
+             .body(is("The templateName is TEMPLATE"));
     }
 
 }
