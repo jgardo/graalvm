@@ -43,6 +43,11 @@
             <artifactId>rest-assured</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>dev.jgardo.graalvm</groupId>
+            <artifactId>graalvm-playground-javascript</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
     </dependencies>
 
 </project>
