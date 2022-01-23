@@ -9,6 +9,7 @@
 
   <modules>
     <module>graalvm-playground-app</module>
+    <module>graalvm-playground-javascript</module>
   </modules>
 
   <properties>
