@@ -1,0 +1,26 @@
+<rss version="2.0">
+<channel>
+<title>
+<![CDATA[ Events - Poznań Java User Group ]]>
+</title>
+<link>
+<![CDATA[ http://www.meetup.com/poznan-java-user-group/events/ ]]>
+</link>
+<description>
+<![CDATA[ Events - Poznań Java User Group ]]>
+</description>
+<copyright>Copyright 2002-2014 Meetup, Inc.</copyright>
+<lastBuildDate>Thu, 04 Jan 2024 04:49:38 EST</lastBuildDate>
+<managingEditor>support@meetup.com (Meetup)</managingEditor>
+<item>
+<title>
+<![CDATA[ Przez ORM do Współbieżności: Odkrywanie Tajników JVM i Hibernate ]]>
+</title>
+<guid isPermaLink="true">https://www.meetup.com/poznan-java-user-group/events/298286077/</guid>
+<description>
+<![CDATA[ <p><img style="float:left; margin-right:4px" src="https://secure.meetupstatic.com/photos/event/6/5/3/6/event_458125910.jpeg" alt="photo" class="photo" />Poznań Java User Group</p> <p><p>Zapraszamy na kolejne spotkanie JUG, współorganizowane i sponsorowane przez Sollers Consulting, gdzie zgłębimy tajniki Java Virtual Machine i jej zastosowań. Spotkanie to będzie idealną okazją dla programistów Java na każdym poziomie zaawansowania, aby poszerzyć swoją wiedzę i doświadczenie w zakresie ORM i współbieżności. Będziemy mieli dwie fascynujące prezentacje od doświadczonych programistów.</p> <p>**1️⃣ ORM Insights – How to not hurt yourself?**<br/>Zanurz się w świat ORMów, kluczowego elementu w projektach Java. Odkryj, jak uniknąć typowych pułapek i wykorzystać pełny potencjał Hibernate i JPA. Ta sesja jest przeznaczona dla wszystkich, od początkujących po zaawansowanych, którzy chcą zrozumieć 'magię' ORMów i uczynić je bardziej przejrzystymi i przystępnymi.</p> <p>**O Prelegencie:**<br/>Karol Górski, Tech Lead w zespole Java Back-end w Sollers Consulting. Pasjonat Software Craftsmanship, DDD oraz rozwoju umiejętności programistycznych. Poza pracą miłośnik gier planszowych i wideo, a także samorozwoju.</p> <p>**2️⃣ Monitory, zamki i atomy, czyli wszystko czego nie chcesz wiedzieć o współbieżności w JVM**<br/>Poznaj głębokie zagadnienia współbieżności w JVM. Dowiedz się, jak różne mechanizmy jak Synchronized, ReentrantLock, czy Atomic wpływają na wydajność i skalowalność aplikacji. Ta prezentacja to doskonała okazja do zrozumienia subtelnych szczegółów implementacyjnych i praktycznych porad dotyczących ich stosowania.</p> <p>**O Prelegencie:**<br/>Jarosław Pałka, z ponad 20-letnim doświadczeniem w branży IT, obecnie zajmujący się infrastrukturą benchmarkingową w Neo4j. Autor bloga (<a href="https://geekyprimitives.com/" class="linkified"><a href="https://geekyprimitives.com/" target="_blank">https://geekyprimitiv...</a></a>) i współzałożyciel konferencji SegFault. Jego kariera obejmowała różne role od administratora baz danych po architekta i programistę, zawsze podążając za zasadą prostoty i efektywności.</p> <p>**O Sponsorze**<br/>(<a href="https://sollers.eu/pl/" class="linkified"><a href="https://sollers.eu/pl/" target="_blank">https://sollers.eu/pl...</a></a>) to międzynarodowa firma doradztwa operacyjnego i wdrażania oprogramowania, wspierająca instytucje finansowe w transformacji biznesu i adaptacji nowych technologii. Specjalizują się w branżach ubezpieczeniowych, bankowych i leasingowych, oferując innowacyjne rozwiązania takie jak platforma RIFE™. Ich zespół ponad 900 specjalistów z całego świata współpracuje z czołowymi dostawcami technologii, aby ułatwić cyfryzację i efektywność operacyjną swoim klientom.</p> <p>**Dołącz do nas!** To będzie niezwykła okazja do zdobycia cennych wskazówek od ekspertów, wymiany doświadczeń i poszerzenia swoich horyzontów w świecie Java.</p> </p> <p>Poznań 61-754 - Poland</p> <p>Wednesday, January 17 at 6:00 PM</p> <p>58</p> <p>https://www.meetup.com/poznan-java-user-group/events/298286077/</p> ]]>
+</description>
+<pubDate>Thu, 04 Jan 2024 04:49:38 EST</pubDate>
+</item>
+</channel>
+</rss>
